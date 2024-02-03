@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+}
+.box1{
+    width: 400px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: black;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11%;
+}
+span{
+     display:block;
+     text-align: center;
+     font-size: 100px;
+}
+p{
+    color: white;
+    font-size: 16px;
+    font-style: normal;
+}
+button{
+    font-size:18px;
+    background-color: green;
+    border-radius: 8px;
+    display:block;
+    margin:0 auto;
+    padding: 6px;
+    color: aliceblue;
+    cursor:pointer;
+}
+
